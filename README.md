@@ -6,7 +6,7 @@ This repository contains a collection of small games written in Python, as part 
 ---
   
 Read along for a brief description of each game:  
-* ***Stopwatch: The Game**  
+* **Stopwatch: The Game**  
 This is a simple digital stopmwatch accurate to the tenths of a second. It has 3 buttons: "Start", "Stop" and "Reset". It also keeps track of the number of times that the watch is stopped on a whole second, out of the number of successful stops.  
 * **Pong**  
 This is a version of the 1972 arcade video game "Pong"  
