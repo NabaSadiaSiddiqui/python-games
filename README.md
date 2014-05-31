@@ -21,7 +21,7 @@ This is an updated version of the 1979 video game "Asteroids"
 ---
   
   
-To play a game, follow the corresponding link from below, and run the game by clicking on the Play button:  
+To play a game, follow the corresponding link from below, and run the game by clicking on the Play button (these work best in Google Chrome):  
   
 **Stopwatch: The Game**
 http://www.codeskulptor.org/#user30_9d2SuctRB6_6.py
